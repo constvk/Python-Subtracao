@@ -1,5 +1,5 @@
 # Python-Subtracao
 
-> Soma de adição (x - y)
+> Soma de Subtração (x - y)
 
 # Necessário: pip install os
